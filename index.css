@@ -54,6 +54,10 @@ h1, h2, h3, h4, h5, h6 {
 	border: solid 0.5em #8b6a5f;
 }
 
+.bg-custom-3 {
+	background-image: linear-gradient(30deg, #461220 30%, #5e2f31 60%);
+	}	
+}
 
 
 /*underline below headers*/
